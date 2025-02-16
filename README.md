@@ -1,6 +1,6 @@
 # Migrate COBOL to ReactJS
 
-![Project Image](frontend\public\image-git\home.png)
+![Project Image](frontend/public/image-git/home.png)
 
 ## Project Description
 
